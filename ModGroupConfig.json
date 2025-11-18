@@ -1,0 +1,714 @@
+{
+  "Groups": [
+    {
+      "Name": "BML Default",
+      "Description": "Core mod management system that provides enhanced mod organization and loading capabilities.",
+      "Order": 0,
+      "Mods": [
+        {
+          "Id": "steam_3596571766",
+          "Tags": [],
+          "IsEnabled": true
+        }
+      ],
+      "Tags": [
+        "top",
+        "better-mod-loader",
+        "locked"
+      ]
+    },
+    {
+      "Name": "framework",
+      "Description": "Mods that edits the core game environment.",
+      "Order": 0,
+      "Mods": [
+        {
+          "Id": "steam_3589088839",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3606705266",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3606793704",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3607456411",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3603670962",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3603671043",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3591672666",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3595729494",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3590674339",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3600560151",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3603313350",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3591875771",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3590106156",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3588717210",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3591556337",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3588412062",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3589651647",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3590154134",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3588488152",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3588652490",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3589079671",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3590052901",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592946080",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3597405574",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3591283268",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3593274421",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3594646794",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3591395619",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3589344509",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3591373133",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3589147123",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3601139281",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592108921",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3591174267",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3591618133",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3589415374",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3590967047",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3595207453",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3594830005",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3595314238",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3532400883",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3593033907",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3596579430",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3595701446",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592198463",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3604513365",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3598920431",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3597398368",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3588961208",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3597982353",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3599558844",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3588403735",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3590389401",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3601093608",
+          "Tags": [],
+          "IsEnabled": true
+        }
+      ],
+      "Tags": []
+    },
+    {
+      "Name": "content",
+      "Description": "Mods that adds content to the game.",
+      "Order": 0,
+      "Mods": [
+        {
+          "Id": "steam_3593776888",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592106393",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3597387612",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3595599118",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3593648229",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592515555",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592256826",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592149083",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592773887",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3591453758",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592322578",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3593290697",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3596685998",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3604047341",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3599328054",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3597560781",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3593422388",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592476389",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592539424",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3591964744",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592358392",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3593122878",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3593771932",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3603002030",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3601557685",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3600872347",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3595286684",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592604788",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592610575",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592240776",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3604336118",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3598302746",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3600744984",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3600384948",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3594514613",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3604248767",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3606591309",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3595008199",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3604314822",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3593820743",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3598024231",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3601219411",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3593778135",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3599639720",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3602637480",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3599281672",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3601295228",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592483313",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3603135115",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3606406124",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3599386171",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3594517546",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3596096953",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3598043762",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3598678702",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3594516302",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3594562468",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3590896915",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3594651161",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3595191263",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3596319750",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3596419361",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3605187157",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3602580431",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3601856400",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3602480825",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3595378897",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3593817428",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3594143041",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3592789489",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3593129129",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3601734975",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3605606846",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3606058128",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3605555661",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3605792029",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3603791115",
+          "Tags": [],
+          "IsEnabled": true
+        },
+        {
+          "Id": "steam_3606951859",
+          "Tags": [],
+          "IsEnabled": true
+        }
+      ],
+      "Tags": [
+        "enables-in-old-manager"
+      ]
+    },
+    {
+      "Name": "gamemode",
+      "Description": "Mods that adds gamemodes to the game.",
+      "Order": 0,
+      "Mods": [
+        {
+          "Id": "steam_3600714295",
+          "Tags": [],
+          "IsEnabled": true
+        }
+      ],
+      "Tags": [
+        "default"
+      ]
+    }
+  ]
+}
